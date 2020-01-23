@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.smg.feedback</groupId>
   <artifactId>smgfeedback</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <packaging>aar</packaging>
   <name>smgfeedback</name>
   <description>Service Management Group Feedback SDK</description>
@@ -27,12 +27,4 @@
     <developerConnection>https://github.com/ServiceManagementGroup/smgfeedback-android.git</developerConnection>
     <url>https://github.com/ServiceManagementGroup/smgfeedback-android</url>
   </scm>
-  <dependencies>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>26.+</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
